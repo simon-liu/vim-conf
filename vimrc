@@ -153,13 +153,13 @@ Bundle "uarun/vim-protobuf"
 au BufNewFile,BufRead *.proto set ft=proto
 "}}}
 
-" Bundle "https://github.com/Valloric/YouCompleteMe.git"
 Bundle "rodjek/vim-puppet"
 Bundle "repeat.vim"
 Bundle "surround.vim"
 Bundle "bling/vim-airline"
 Bundle "phpfolding.vim"
 Bundle "hughbien/md-vim"
+Bundle "terryma/vim-multiple-cursors"
 " {{{
 au BufNewFile,BufRead *.md set ft=md
 "}}}
